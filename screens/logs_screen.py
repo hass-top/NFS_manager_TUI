@@ -112,7 +112,6 @@ Static {
         self.query_one("#clients_output", Static).update(client_result)
 
     def on_mount(self) -> None:
-        """Read /etc/exports and list NFS clients when the screen is mounted."""
         self.read_exports()
         self.list_nfs_clients()
 
