@@ -15,7 +15,18 @@ More features will be added in future releases.
 You can install all required dependencies (Python + Textual) with the provided script:  
 
 ```bash
-git clone https://github.com/yourusername/NFS_manager_TUI.git
+git clone https://github.com/hass-top/NFS_manager_TUI.git
 cd NFS_manager_TUI
 chmod +x install.sh
 ./install.sh
+```
+## Run the Project  
+
+After installation, open the project and run it with:  
+
+```bash
+sudo python3 main.py
+'''
+
+
+
