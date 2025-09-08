@@ -6,6 +6,7 @@ With it, you can:
 - Mount and unmount clients  
 - View active exports and mounts  
 
+> ⚠️ **Note:** This project is designed to work only on Linux distributions.
 More features will be added in future releases.  
 
 ---
