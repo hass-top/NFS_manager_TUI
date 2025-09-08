@@ -26,7 +26,13 @@ After installation, open the project and run it with:
 
 ```bash
 sudo python3 main.py
-'''
+```
+
+this  is  some  image  
+![Screenshot 1](docs/Screenshot%20From%202025-09-08%2011-43-26.png)  
+![Screenshot 2](docs/Screenshot%20From%202025-09-08%2011-43-35.png)  
+![Screenshot 3](docs/Screenshot%20From%202025-09-08%2011-43-41.png)  
+![Screenshot 4](docs/Screenshot%20From%202025-09-08%2011-44-02.png)  
 
 
 
